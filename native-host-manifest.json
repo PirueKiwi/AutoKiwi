@@ -1,0 +1,9 @@
+{
+  "name": "autokiwi.githost",
+  "description": "AutoKiwi Git Memory Native Host",
+  "path": "C:\\Users\\Cosmo\\source\\repos\\AutoKiwi\\AutoKiwiGit\\bin\\Debug\\net8.0\\GitHost.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://pggdlficajeebaokjhfkmmngnokcjh/"
+  ]
+}

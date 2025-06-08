@@ -1,0 +1,4 @@
+C:\Users\Cosmo\source\repos\AutoKiwi\AutoKiwi\obj\Debug\AutoKiwi.csproj.AssemblyReference.cache
+C:\Users\Cosmo\source\repos\AutoKiwi\AutoKiwi\obj\Debug\AutoKiwi.Properties.Resources.resources
+C:\Users\Cosmo\source\repos\AutoKiwi\AutoKiwi\obj\Debug\AutoKiwi.csproj.GenerateResource.cache
+C:\Users\Cosmo\source\repos\AutoKiwi\AutoKiwi\obj\Debug\AutoKiwi.csproj.CoreCompileInputs.cache
