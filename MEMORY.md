@@ -11,24 +11,6 @@
 
 ## 🚀 CURRENT STATUS (Latest Update)
 
-### ✅ COMPLETED TODAY
-- **Chrome Extension + Native Host** - WORKING! 🎉
-  - Git integration funguje perfektně
-  - Visual feedback v chatu
-  - Automatic memory management
-  - Commands: !git status, !commit memory, !pull memory
-
-### 🔧 IN PROGRESS
-- **Architecture redesign** - from complex to simple
-- **DataCollector module** - UI metadata extraction
-- **Learning data structure** - finalized design
-
-### 🎯 NEXT PRIORITIES
-1. **DataCollector implementation** - bridge between old/new architecture
-2. **WindowController** - user32.dll wrapper
-3. **AutoKiwi.exe redesign** - simplified main window
-
----
 
 ## 🏗️ Architecture Status
 
